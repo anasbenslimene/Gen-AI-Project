@@ -41,5 +41,13 @@ This application uses a serverless RAG (Retrieval-Augmented Generation) approach
 3. **Generation**: The top retrieved chunks are injected as context into a prompt sent to the Gemini 1.5 Flash model via the official `@google/generative-ai` SDK.
 4. **Transparency**: The relevant chunks are simultaneously displayed in the Right Sidebar with their similarity scores and originating page numbers.
 
+## Screenshots
+
+![1](screenshots/1.png)
+
+![2](screenshots/2.png)
+
+![2](screenshots/3.png)
+
 ## Team
 Built as a premium AI educational platform presentation.
