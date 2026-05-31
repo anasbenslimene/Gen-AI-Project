@@ -1,0 +1,12 @@
+@import './styles/variables.css';
+@import './styles/layout.css';
+@import './styles/chat.css';
+@import './styles/components.css';
+
+/* Remove default styles from Vite template */
+#root {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
